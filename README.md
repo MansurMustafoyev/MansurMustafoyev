@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MansurMustafoyev
+- 👀 I’m interested in reading books and creating programs
+- 📫 mailto:mansurmustafoyevdeveloper@gmail.com
